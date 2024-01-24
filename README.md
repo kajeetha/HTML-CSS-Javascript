@@ -1,2 +1,2 @@
-# HTML_CSS
+HTML_CSS
 Beginner html and css techniques
